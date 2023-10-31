@@ -2,7 +2,7 @@
 
 ## Identificação
 
-![Nossa logo](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/SIGEMI-LOGO.jpeg)
+![Nossa logo](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/SIGEMI-LOGO.png)
 
 ## Equipe  
 + Claudio Cesar Adamowicz  
