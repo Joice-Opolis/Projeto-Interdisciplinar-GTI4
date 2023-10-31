@@ -82,7 +82,6 @@ Em pesquisa de ferramentas oferecidas ao mercado encontramos os seguintes sistem
 
 + **Sistema de Gestão para Lojas de Informática (Falcora Tecnologia):** sistema ERP Cloud que dentre suas funcionalidades possui gestão de serviços e suporte técnico para controle e acompanhamento do atendimento ao cliente. 
 + **Fácil Loja de Informática (Fácil Sistemas):** o sistema possui um módulo para controle das etapas dos serviços, desde a entrada até o fechamento das ordens de serviços, integrado com demais módulos financeiros.
-+ **Software Oficina de Computador e Loja de Informática (NuvemGestor):** software online de gerenciamento administrativo e financeiro para micro e pequenas empresas que possui módulo de gestão de ordens de serviço, com controle de status por “bandeiras” indicativas, onde a cada alteração o funcionário responsável recebe uma notificação. O cliente pode acompanhar o andamento do serviço pelo site e recebe um e-mail ou SMS na finalização do atendimento.
 + **Sistema de Gestão para Assistência Técnica e Loja de Informática (SIGECloud):** o sistema possui módulo de controle de ordens de serviços e acompanhamento de técnicos, onde cada colaborador pode criar o laudo para cada OS e o gestor acompanhar o andamento e performance dos serviços realizados por cada membro da equipe técnica. 
 
 ### Comparação: 
@@ -94,6 +93,21 @@ O sistema de Sato, Oliveira e Alves (2022) é voltado para o gerenciamento de ti
 O sistema desenvolvido por Silva et al (2022) se concentra na gestão de lojas de manutenção de equipamentos e periféricos de informática, abordando atividades como cadastro de usuário, emissão de ordem de serviço e relatórios gerenciais. Nosso sistema é mais específico, atendendo diretamente às necessidades dos MEIs na área de manutenção de equipamentos de informática. 
 
 As ferramentas comerciais oferecem funcionalidades semelhantes, mas muitas vezes podem ser complexas e caras, o que pode não ser adequado para MEIs com recursos limitados. Buscamos desenvolver uma alternativa mais direta e econômica para esse público, que possui pouco tempo para gerenciar de forma manual as demandas e recursos financeiros limitados para adotar as ferramentas de mercado robustas com módulos excessivos ao seu negócio e opções de personalização de pacotes de assinatura limitadas por essas empresas. 
+
+### Referências: 
+
+BULE, A. A. **Sistema de gestão de assistência técnica. O caso da Itec Solutions.** Monografia (Licenciatura em Informática) – Faculdade de Ciências, Universidade Eduardo Mondlane. Maputo, 2022. 
+
+FÁCIL SISTEMAS. **Sistema para loja de informática.** 2023. Disponível em: https://facilsistemas.com.br/sistema-para-loja-de-informatica/. Acesso em: 04 out. 2023. 
+
+FALCORA TECNOLOGIA. **Sistema de Gestão para Lojas de Informática.** 2022. Disponível em: https://falcora.com.br/sistema-de-gestao-para-lojas-de-informatica/. Acesso em: 04 out. 2023.
+
+SATO, B. H. M.; OLIVEIRA, J. T. C. C.; ALVES, R. C. **Desenvolvimento de software de gestão de tickets de suporte.** Monografia (Análise e Desenvolvimento de Sistemas) – Universidade de Taubaté. Taubaté, 2022. 
+
+SIGECLOUD. **Sistema de Gestão para Assistência Técnica e Loja de Informática.** 2021. Disponível em: https://www.sigecloud.com.br/erp-para-lojas-de-informatica. Acesso em: 04 out. 2023. 
+
+SILVA, D. E. et al. **Desenvolvimento de um sistema de gerenciamento para lojas de informática e periféricos.**  Monografia (Análise e Desenvolvimento de Sistemas) - Faculdade de Tecnologia de Americana “Ministro Ralph Biasi”.  Americana, 2022. 
+
 
 ## Gestão do projeto
 
