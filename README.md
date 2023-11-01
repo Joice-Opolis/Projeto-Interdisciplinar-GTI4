@@ -1,8 +1,8 @@
-# SIGEMI - Sistema de Gestão de Manutenções de Equipamentos
+# SIGMI - Sistema de Gestão de Manutenções de Equipamentos
 
 ## Identificação
 
-![Nossa logo](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/SIGEMI-LOGO.png)
+![Nossa logo](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/SIGMI-LOGO.png)
 
 ## Equipe  
 + Claudio Cesar Adamowicz  
