@@ -143,6 +143,8 @@ A partir dos dados coletados foi identificado que 60% dos respondentes atuam com
 + Falta de métricas das atividades realizadas
 + Dificuldade na gestão da aquisição de peças
 + Falta de planejamento da execução das demandas
+
+![dificuldades](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/nuvem-dificuldades%20(1).png)
   
 **Comunicação com o cliente:** 100% dos respondentes informaram que realizam a comunicação com o cliente durante o processo de manutenção, sendo que o recurso mais utilizado para tanto é o WhatsApp (75%) seguido do e-mail (25%).
   
