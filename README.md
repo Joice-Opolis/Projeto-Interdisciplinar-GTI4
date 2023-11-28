@@ -164,6 +164,8 @@ A partir dos dados coletados foi identificado que 60% dos respondentes atuam com
 + Melhoria no atendimento e aumento da satisfação do cliente
 + Tomada de decisão com base em informações e indicadores sobre os atendimentos
 + Possibilidade de expansão da operação
+
+![beneficios](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/nuvem-beneficios.png)
   
 **Por fim, 100% dos respondentes aceitariam participar de testes de demonstração do SIGMI.**
   
