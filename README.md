@@ -8,10 +8,21 @@
 + Claudio Cesar Adamowicz  
 + Joice Cristine Opolis
 
-## Descrição
+## MVP
 
-A nossa proposta de solução envolve o desenvolvimento de uma plataforma web que permitirá aos MEIs gerenciar de forma eficaz as entradas e saídas de equipamentos para manutenção. Isso incluirá recursos de atualização de status de manutenção, geração de relatórios e notificações ao cliente final para mante-los informados sobre o progresso do serviço. 
+A nossa proposta de solução envolve o desenvolvimento de uma plataforma web que permitirá aos MEIs gerenciar de forma eficaz as entradas e saídas de equipamentos para manutenção. 
 
+### Recursos
+
++ Cadastro de clientes (CPF e CNPJ)
++ Cadastro e inventário de equipamentos dos clientes
++ Cadastro de demandas de manutenção (preventivas e corretivas) contendo: controle de prazo, técnico responsável, histórico do atendimento e evolução de status do processo
++ Notificações ao cliente final via WhatsApp a partir da evolução do status
++ Geração de relatórios gerenciais
+
+### Protótipo
+https://app.quant-ux.com/#/test.html?h=a2aa10afPcMZ6KcjBmrOMOB9ErzduTfdrMKY2eAmgqURhubeSsA8GYXfty5m&ln=en 
+  
 ## Justificativa
 
 O problema que o SIGMI pretende resolver é a falta de controle eficaz e visibilidade sobre as demandas de manutenção de equipamentos que microempreendedores individuais (MEIs) enfrentam devido a ausência de ferramentas específicas para essa finalidade no mercado e alto custo de softwares mais abragentes, que os leva a realizar o gerenciamento das demandas de forma manual levando a possíveis atrasos na entrega e insuficiência de informações ao cliente sobre a execução do serviço. O objetivo principal é proporcionar um maior controle sobre as demandas de manutenção de equipamentos, a partir de um sistema de gestão das entradas e saídas de equipamentos simples, intuitivo e de baixo custo, garantindo que os MEIs possam entregar serviços de maneira ágil, eficiente e satisfatória aos seus clientes. 
