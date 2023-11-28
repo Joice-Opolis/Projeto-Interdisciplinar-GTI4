@@ -123,4 +123,57 @@ https://trello.com/b/dGF4NK7Z/projeto-interdisciplinar
 
 ## Entrevista de Identificação e Conscientização do Problema 
 
-https://forms.gle/hiTsxK4bcD3QN3pR9 
+A pesquisa de identificação e conscientização do problema foi aplicada através de formulário eletrônico (https://forms.gle/hiTsxK4bcD3QN3pR9), distribuído através de grupos de contato no WhatsApp, no período entre 14 de novembro a 27 de novembro de 2023 e foram coletadas 20 respostas. 
+
+### Amostra
+
+A partir dos dados coletados foi identificado que 60% dos respondentes atuam como MEI da área da tecnologia com manutenção de equipamentos e atuam majoritariamente em Curitiba (55%) e na RMC (30%). 
+
+### Resultados
+
+**Tipo de manutenção:** 80% dos respondentes realiza tanto manutenção preventiva quanto manutenção corretiva de equipamentos eletrônicos. 
+
+**Uso de ferramentas para gestão das manutenções:** 75% realizam a gestão das tarefas a partir de alguma ferramenta tecnológica, sendo os recursos mais consumidos: WhatsApp (66,7%), Planilha eletrônica (58,3%) e Agenda eletrônica (50%). 
+
+**Histórico de atendimentos:** cerca de 50% dos respondentes não possuem histórico armazenado dos atendimentos realizados. Os profissionais que armazenam históricos informaram período de retenção dos dados entre 30 dias a 4 anos. 
+
+**Impacto/dificuldades da falta de um sistema para gerenciar as manutenções:** 
++ Dificuldade em localizar informações e históricos de atendimento
++ Atrasos na execução do serviço e perda de prazos
++ Falta de métricas das atividades realizadas
++ Dificuldade na gestão da aquisição de peças
++ Falta de planejamento da execução das demandas
+  
+**Comunicação com o cliente:** 100% dos respondentes informaram que realizam a comunicação com o cliente durante o processo de manutenção, sendo que o recurso mais utilizado para tanto é o WhatsApp (75%) seguido do e-mail (25%).
+  
+**Experiência com software de gestão de manutenções:** 91,7% dos respondentes não possuem experiência com software desenvolvido para essa finalidade e 83,3% utilizariam um sistema para gerenciar as demandas e aproximar a comunicação com o cliente durante todo o processo.
+
+**Benefícios esperados:**
++ Acelerar o processo de manutenção com a diminuição do tempo na catalogação dos equipamentos
++ Melhoria no controle dos processos
++ Agilidade nas informações
++ Segurança nos processos
++ Gestão centralizada de informações 
++ Métricas a partir do histórico de atendimentos
++ Organização do processo de trabalho e dos prazos para execução dos serviços
++ Maior eficiência
++ Maior controle de fluxo de atendimento
++ Melhoria na gestão de peças e equipamentos
++ Melhoria no atendimento e aumento da satisfação do cliente
++ Tomada de decisão com base em informações e indicadores sobre os atendimentos
++ Possibilidade de expansão da operação
+  
+**Por fim, 100% dos respondentes aceitariam participar de testes de demonstração do SIGMI.**
+  
+Os resultados obtidos destacam a relevância de um software dedicado ao gerenciamento de demandas de manutenção de equipamentos eletrônicos, visto que, na maioria dos casos relatados, as tarefas são gerenciadas de forma manual, sem informações estruturadas e concretas, utilizando apenas da evidência de conversas realizadas por aplicativo de mensageria. 
+
+A parcela majoritária dos respondentes que informou não ter algum contato com ferramenta similar à nossa proposta, cruzado à grande parcela que utilizaria um sistema com as funcionalidades do SIGMI, trás a reflexão sobre a ausência de sistemas simplificados voltados para o público alvo dos MEIs da área de informática que possuem operação reduzida e menor orçamento para investir em ferramentas de gestão. 
+
+O SIGMI busca atender profissionais que possuem um pequeno negócio, realizam manutenções corretivas e preventivas de equipamentos de informática e periféricos e buscam melhorar a organização do trabalho realizado e o relacionamento com o cliente através da transparência na comunicação das etapas do atendimento. 
+
+Diante dos problemas e dificuldades relatados pelos respondentes sobre a gestão das demandas, a utilização de um sistema que permita automatizar tarefas, criar cadastros robustos de equipamentos de clientes, armazenar históricos de atendimentos e centralizar informações tende a otimizar o trabalho realizado, personalizar o atendimento ao cliente, realizar economia de tempo e orçamento ao reformular processos com base nas informações que pode se obter e como consequência possibilita a expansão do negócio. Tais vantagens alinham-se com os benefícios esperados pelos respondentes e demonstram o alinhamento da proposta do SIGMI com as necessidades do público alvo. 
+
+
+
+
+
