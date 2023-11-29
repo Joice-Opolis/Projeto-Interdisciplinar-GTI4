@@ -27,6 +27,10 @@ https://app.quant-ux.com/#/test.html?h=a2aa10afPcMZ6KcjBmrOMOB9ErzduTfdrMKY2eAmg
 
 O problema que o SIGMI pretende resolver é a falta de controle eficaz e visibilidade sobre as demandas de manutenção de equipamentos que microempreendedores individuais (MEIs) enfrentam devido a ausência de ferramentas específicas para essa finalidade no mercado e alto custo de softwares mais abragentes, que os leva a realizar o gerenciamento das demandas de forma manual levando a possíveis atrasos na entrega e insuficiência de informações ao cliente sobre a execução do serviço. O objetivo principal é proporcionar um maior controle sobre as demandas de manutenção de equipamentos, a partir de um sistema de gestão das entradas e saídas de equipamentos simples, intuitivo e de baixo custo, garantindo que os MEIs possam entregar serviços de maneira ágil, eficiente e satisfatória aos seus clientes. 
 
+## Persona
+
+![persona](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/persona-samuel-oliveira.png)
+
 ## Product Vision Board  
 
 ![Visão do produto](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/Declara%C3%A7%C3%A3o_de_Vis%C3%A3o.jpg)
