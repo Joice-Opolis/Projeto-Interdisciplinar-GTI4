@@ -1,6 +1,6 @@
 # SIGMI - Sistema de Gestão de Manutenções de Equipamentos
 
-## Identificação
+## Identificação visual
 
 ![Nossa logo](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/SIGMI-LOGO.png)
 
@@ -50,7 +50,7 @@ O problema que o SIGMI pretende resolver é a falta de controle eficaz e visibil
 
 **Trabalho decente e crescimento econômico: Promover o crescimento econômico inclusivo e sustentável, o emprego pleno e produtivo e o trabalho digno para todos.**
 
-Nosso projeto visa promover o trabalho decente e o crescimento econômico, com foco no município de Pinhais, pois a inovação tecnológica permite a geração de empregos, apoia o empreendedorismo e incentiva o crescimento de micro e pequenas empresas a partir do acesso a ferramentas e recursos que apoiam a estruturação e gestão do negócio, dão robustez ao serviço prestado, permite que os empreendedores aloquem de forma mais eficaz tempo e recursos nas demandas, e como consequência permitem a expansão no negócio, geração de empregos, possibilitam a fidelização de clientes através da transparência das informações e fomenta o crescimento econômico do município. 
+Nosso projeto visa promover o trabalho decente e o crescimento econômico em Curitiba e região metropolitana (RMC), pois a inovação tecnológica permite a geração de empregos, apoia o empreendedorismo e incentiva o crescimento de micro e pequenas empresas a partir do acesso a ferramentas e recursos que apoiam a estruturação e gestão do negócio, dão robustez ao serviço prestado, permite que os empreendedores aloquem de forma mais eficaz tempo e recursos nas demandas, e como consequência permitem a expansão no negócio, geração de empregos, possibilitam a fidelização de clientes através da transparência das informações e fomenta o crescimento econômico a região. 
 
 ## Tecnologias utilizadas 
 
