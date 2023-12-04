@@ -8,6 +8,10 @@
 + Claudio Cesar Adamowicz  
 + Joice Cristine Opolis
 
+## Product Vision Board  
+
+![Visão do produto](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/Declara%C3%A7%C3%A3o_de_Vis%C3%A3o.jpg)
+
 ## MVP
 
 A nossa proposta de solução envolve o desenvolvimento de uma plataforma web que permitirá aos MEIs gerenciar de forma eficaz as entradas e saídas de equipamentos para manutenção. 
@@ -31,14 +35,14 @@ O problema que o SIGMI pretende resolver é a falta de controle eficaz e visibil
 
 ![persona](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/persona-samuel-oliveira.png)
 
-## Product Vision Board  
+## Storyboard
 
-![Visão do produto](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/Declara%C3%A7%C3%A3o_de_Vis%C3%A3o.jpg)
+![storyboard](https://github.com/Joice-Opolis/Projeto-Interdisciplinar-GTI4/blob/main/storyboard-sigmi%20(1).png)
 
 ## Vantagens do nosso sistema
 
 + **Foco em Microempreendedores Individuais:** nosso sistema visa atender às necessidades específicas dos MEIs na área de manutenção de equipamentos de informática.
-+ **Acessibilidade e Notificações via WhatsApp:** A capacidade de emitir notificações via WhatsApp para o cliente final e a acessibilidade via web tornam o sistema mais direto e transparente.
++ **Transparência no serviço - Notificações via WhatsApp:** A capacidade de emitir notificações via WhatsApp para o cliente final e a acessibilidade via web tornam o sistema mais direto e transparente.
 + **Simplicidade e Intuitividade:** nosso sistema é projetado para ser simples e intuitivo, adequado para MEIs que podem não ter experiência em sistemas de gestão.
 + **Custo-Efetivo:** oferecemos uma alternativa acessível para MEIs, ao contrário de muitas ferramentas comerciais mais caras e com módulos mais abrangentes e complexos.
 
