@@ -19,10 +19,10 @@ A nossa proposta de solução envolve o desenvolvimento de uma plataforma web qu
 ### Recursos
 
 + Cadastro de clientes (CPF e CNPJ)
-+ Cadastro e inventário de equipamentos dos clientes
++ Cadastro de equipamentos dos clientes
++ Cadastro de técnico responsável
 + Cadastro de demandas de manutenção (preventivas e corretivas) contendo: controle de prazo, técnico responsável, histórico do atendimento e evolução de status do processo
 + Notificações ao cliente final via WhatsApp a partir da evolução do status
-+ Geração de relatórios gerenciais
 
 ### Protótipo
 https://app.quant-ux.com/#/test.html?h=a2aa10afPcMZ6KcjBmrOMOB9ErzduTfdrMKY2eAmgqURhubeSsA8GYXfty5m&ln=en 
@@ -51,6 +51,17 @@ O problema que o SIGMI pretende resolver é a falta de controle eficaz e visibil
 **Trabalho decente e crescimento econômico: Promover o crescimento econômico inclusivo e sustentável, o emprego pleno e produtivo e o trabalho digno para todos.**
 
 Nosso projeto visa promover o trabalho decente e o crescimento econômico, com foco no município de Pinhais, pois a inovação tecnológica permite a geração de empregos, apoia o empreendedorismo e incentiva o crescimento de micro e pequenas empresas a partir do acesso a ferramentas e recursos que apoiam a estruturação e gestão do negócio, dão robustez ao serviço prestado, permite que os empreendedores aloquem de forma mais eficaz tempo e recursos nas demandas, e como consequência permitem a expansão no negócio, geração de empregos, possibilitam a fidelização de clientes através da transparência das informações e fomenta o crescimento econômico do município. 
+
+## Tecnologias utilizadas 
+
+| Ferramenta | Local | Descrição |
+-------------|-------|-----------|
+| Canva | https://www.canva.com/ | Ferramenta de edição utilizada na elaboração da identidade visual |
+| Github | https://github.com/ | Ferramenta utilizada para hospedagem do projeto e colaboração |
+| Google Forms | https://docs.google.com/forms | Ferramenta utilizada para criação do formulário de pesquisa online |
+| Quant-UX | https://www.quant-ux.com/ | Ferramenta utilizada para prototipagem do MVP |
+| Trello | https://trello.com/ | Ferramenta utilizada para o gerenciamento do projeto |
+
 
 ## Estado da arte 
 
