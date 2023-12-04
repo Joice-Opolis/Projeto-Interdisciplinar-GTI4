@@ -25,6 +25,9 @@ A nossa proposta de solução envolve o desenvolvimento de uma plataforma web qu
 + Notificações ao cliente final via WhatsApp a partir da evolução do status
 
 ### Protótipo
+
+Demonstração: https://www.loom.com/share/fce236ad6424413c97460986a8c89657?sid=fed37a77-de87-4685-8e77-dd054fcba9e5 
+
 https://app.quant-ux.com/#/test.html?h=a2aa10afPcMZ6KcjBmrOMOB9ErzduTfdrMKY2eAmgqURhubeSsA8GYXfty5m&ln=en 
   
 ## Justificativa
